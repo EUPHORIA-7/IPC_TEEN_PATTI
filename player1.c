@@ -119,7 +119,6 @@ int player1_manual_bet(struct shared_struct *shared_stuff) {
     }
 }
 
-// ... [previous functions remain the same] ...
 
 int main() {
     // Create shared memory
